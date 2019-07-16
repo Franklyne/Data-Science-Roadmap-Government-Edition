@@ -88,6 +88,7 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   Indexing
 23. Other skills
     *   Project management
+    *   Data visualisation
     *   Communication
     *   Presentation
 
